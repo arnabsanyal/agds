@@ -2,7 +2,7 @@
 
 ###### Please <span style="color:red"> _ABIDE BY_ </span> [coursera honor code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code "coursera honor code") if you are currently taking a coursera course
 
-* I have used the python library ProgressBar in this code implementation. You can comment out the ProgressBar parts of the code, if it suits you better. I used the library only to estimate progress as it can individual parts of this code can take up some time to fully execute owing to the huge size of the data-set.
+* I have used the python library ProgressBar in this code implementation. You can comment out the ProgressBar parts of the code, if it suits you better. I used the library only to estimate progress as individual parts of this code can take up some time to fully execute owing to the huge size of the data-set.
 
 * Upto line 54, 
 ```python

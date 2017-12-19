@@ -13,3 +13,8 @@ This repository contains the programming assignments for this coursera course. T
 ### Quick Navigation to problems
 
 * week 1 - [Strongly Connected Components](https://github.com/arnabsanyal/agds/tree/master/week%20one/documentation.md "Programming Assignment #1")
+* week 2 - [Dijkstra's Shortest Path Algorithm](https://github.com/arnabsanyal/agds/tree/master/week%20two/documentation.md "Programming Assignment #2")
+
+___
+
+###### I go by my cyber-alias Hunter1706 (signature on the code files)
