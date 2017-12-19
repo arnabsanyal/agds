@@ -14,7 +14,7 @@ the program basically reads the graph data file and creates two adjacency lists 
 ```python
 sys.stdout.flush()
 ```
-The last few lines after that basically counts the various Strongly Connected Component's sizes, and prints out the top five after sorting those sizes in descending order.
+* The last few lines after that basically counts the various Strongly Connected Component's sizes, and prints out the top five after sorting those sizes in descending order.
 
 * The size of the huge data-set ensured that I had to use my own DFS stack, instead of the recursion stack as I couldn't use a recursive implementation of DFS. Using recursive DFS on this huge data-set would surely make the program hit the recursion depth limit.
 
