@@ -12,4 +12,4 @@ This repository contains the programming assignments for this coursera course. T
 
 ### Quick Navigation to problems
 
-* week 1 - [Strongly Connected Components](https://github.com/arnabsanyal/agds/tree/master/week1, "Programming Assignment #1")
+* week 1 - [Strongly Connected Components](https://github.com/arnabsanyal/agds/tree/master/week%201, "Programming Assignment #1")
