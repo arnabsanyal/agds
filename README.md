@@ -12,8 +12,12 @@ This repository contains the programming assignments for this coursera course. T
 
 ### Quick Navigation to problems
 
-* week 1 - [Strongly Connected Components](https://github.com/arnabsanyal/agds/tree/master/week%20one/documentation.md "Programming Assignment #1")
-* week 2 - [Dijkstra's Shortest Path Algorithm](https://github.com/arnabsanyal/agds/tree/master/week%20two/documentation.md "Programming Assignment #2")
+* week 1 - [Strongly Connected Components](https://github.com/arnabsanyal/agds/tree/master/week%20one/ "Programming Assignment #1")
+* week 2 - [Dijkstra's Shortest Path Algorithm](https://github.com/arnabsanyal/agds/tree/master/week%20two/ "Programming Assignment #2")
+* week 3 - [Median Maintenance Algorithm](https://github.com/arnabsanyal/agds/tree/master/week%20three/ "Programming Assignment #3")
+* week 4 - [2-SUM Algorithm using Hash-Maps](https://github.com/arnabsanyal/agds/tree/master/week%20four/ "Programming Assignment #4")
+
+###### [Repository wiki](https://github.com/arnabsanyal/agds/wiki "Repository wiki link")
 
 ___
 
